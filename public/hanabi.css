@@ -1,0 +1,17 @@
+.card {
+  background-color: red;
+  border-radius: 10px;
+  border: solid 2px;
+  font-family: monaco;
+  font-size: larger;
+  height: 40px;
+  text-align: center;
+  width: 50px;
+}
+
+#player-table {
+  border: solid 2px;
+  padding: 20px;
+  table-layout: fixed;
+  width: 250px;
+}
